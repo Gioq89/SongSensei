@@ -8,7 +8,7 @@ In addition to the current functionality, we have exciting updates planned for t
 
 The primary motivation behind developing SongSensei was to facilitate collaborative learning and teamwork within our SongSensei team. By utilizing platforms like GitHub, GitHub Projects, and Slack, we honed our skills in building a project from scratch. Leveraging our collective knowledge of JavaScript, HTML, CSS, server-side APIs, version control, and Tailwind CSS, we aimed to create a robust and user-friendly website. Throughout the development process, we gained valuable insights into API requests, authorization, security measures, and documentation parsing. Integrating APIs from YouTube and Wikipedia, as well as utilizing the jQuery framework, were crucial aspects of completing this project successfully.
 
-Link to deployed application [here](https://saduhub.github.io/SongSensei/)
+Link to deployed application [here](https://gioq89.github.io/SongSensei/)
 
 Screenshot of project:
 ![Screenshot of project](assets/images/SongSensei%20Screenshot.png)
